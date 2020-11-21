@@ -9,13 +9,15 @@ title: Okimoni Art
 description: >
   Paintings portfolio of Okimoni
 url: https://okimoni.github.io/
-twitter_username: thomasvaeth
+# twitter_username: thomasvaeth
 default_img: /assets/images/profile-0.jpeg
 social:
   # - name: twitter
   #   url: https://twitter.com/thomasvaeth
   - name: instagram
     url: https://www.instagram.com/0kimoni.art/
+  - name: facebook
+    url: https://www.facebook.com/carla.gherci
   # - name: linkedin
   #   url: https://www.linkedin.com/in/thomasvaeth/
   # - name: github
@@ -24,7 +26,7 @@ social:
   #   url: https://codepen.io/thomasvaeth/
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
+contact_img: /assets/images/contact.jpg
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
