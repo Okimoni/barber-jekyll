@@ -4,6 +4,8 @@ title: "Blue motion 1"
 date: 2020-11-21
 description: 
 image: /assets/images/blue-motion-1-0.jpg
+size: 30x30
+medium: acrylic on canvas
 tags:
   - Fluids
   - Blue
