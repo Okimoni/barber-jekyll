@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Colors 15"
+date: 2021-01-05
+description: 
+image: /assets/images/noname14-0.jpg
+size: 40x40
+medium: acrylic on canvas
+tags:
+  - Colors
+---
+
+To complete
+
+<p align="center">
+  <img src="/assets/images/noname14-0.jpg" />
+</p>
+
+Find it on [Saachti](https://www.saatchiart.com/art/Painting-Blue-motion-1/1696819/8043051/view)

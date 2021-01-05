@@ -5,6 +5,7 @@ date: 2020-11-21
 description: 
 image: /assets/images/arlequin-1.jpg
 size: 60x60
+medium: acrylic on canvas
 tags:
   - Colorfull
   - Autumn
