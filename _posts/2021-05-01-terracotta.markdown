@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Colors 4"
+title: "Terracotta"
 date: 2021-01-05
 description: 
 image: /assets/images/noname3-0.jpg
@@ -10,10 +10,8 @@ tags:
   - Colors
 ---
 
-To complete
-
 <p align="center">
   <img src="/assets/images/noname3-1.jpg" />
 </p>
 
-Find it on [Saachti](https://www.saatchiart.com/art/Painting-Blue-motion-1/1696819/8043051/view)
+Sold

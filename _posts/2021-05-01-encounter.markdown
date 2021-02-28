@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Colors 7"
+title: "Encounter"
 date: 2021-01-05
 description: 
 image: /assets/images/noname6-0.jpg
@@ -10,10 +10,9 @@ tags:
   - Colors
 ---
 
-To complete
 
 <p align="center">
   <img src="/assets/images/noname6-0.jpg" />
 </p>
 
-Find it on [Saachti](https://www.saatchiart.com/art/Painting-Blue-motion-1/1696819/8043051/view)
+Find it on [Saachti](https://www.saatchiart.com/art/Painting-Between-earth-and-sea/1696819/8045470/view)

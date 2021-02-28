@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blue motion 1"
+title: "Blue motion"
 date: 2020-11-21
 description: 
 image: /assets/images/blue-motion-1-0.jpg
@@ -21,4 +21,4 @@ The painting is willingly free of horizon in order to highlight the confusion be
   <img src="/assets/images/blue-motion-1-0.jpg" />
 </p>
 
-Find it on [Saachti](https://www.saatchiart.com/art/Painting-Blue-motion-1/1696819/8043051/view)
+Sold
